@@ -10,7 +10,7 @@
   --fses: 2vh; /* Links List */
 
   /* Light theme  */
-   --accent: var(--nord7); /* Hover color */
+   --accent: var(--nord0); /* Hover color */
   --bg: var(--nord6); /* Background color */
   --sbg: var(--nord4); /* Cards color */
   --fg: var(--nord8); /* Foreground color */
@@ -32,7 +32,7 @@
 
 /* Dark theme  */
 .darktheme {
-  --accent: var(--nord7); /* Hover color */
+  --accent: var(--nord0); /* Hover color */
   --bg: var(--nord0); /* Background color */
   --sbg: var(--nord1); /* Cards color */
   --fg: var(--nord8); /* Foreground color */
