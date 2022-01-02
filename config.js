@@ -18,7 +18,7 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'my friend',
+  name: 'ciaran',
   imageBackground: true,
   openInNewTab: true,
 
@@ -26,13 +26,13 @@ const CONFIG = {
   greetingMorning: 'Good morning,',
   greetingAfternoon: 'Hello,',
   greetingEvening: 'Good night,',
-  greetingNight: 'You should go to sleep,',
+  greetingNight: '...,',
 
   // Weather
   // Use openweathermap.org
   weatherKey: 'XXX',
-  weatherIcons: 'OneDark', // 'Nord', 'Dark', 'White'
-  weatherUnit: 'C',
+  weatherIcons: 'nord', // 'Nord', 'Dark', 'White'
+  weatherUnit: 'f',
   // Use https://www.latlong.net/
   weatherLatitude: 'XXX',
   weatherLongitude: 'XXX',
@@ -91,41 +91,42 @@ const CONFIG = {
   secondListIcon: 'tool',
 
   // Links
+    // Links
   lists: {
     firstList: [
       {
-        name: 'Twitter',
-        link: 'https://twitter.com/',
+        name: 'manjaro',
+        link: 'https://manjaro.org',
       },
       {
-        name: 'THN',
-        link: 'https://thehackernews.com/',
+        name: 'debian',
+        link: 'https://debian.org',
       },
       {
-        name: 'Its FOSS',
-        link: 'https://itsfoss.com/',
+        name: 'arch',
+        link: 'https://archlinux.org',
       },
       {
-        name: 'EFF',
-        link: 'https://www.eff.org/',
+        name: 'ubuntu',
+        link: 'https://ubuntu.org',
       },
     ],
     secondList: [
       {
-        name: 'Telegram',
-        link: 'https://webk.telegram.org',
+        name: 'Linkedin',
+        link: 'https://linkedin.com/',
       },
       {
-        name: 'Github',
-        link: 'https://github.com/',
+        name: 'Figma',
+        link: 'https://figma.com/',
       },
       {
-        name: 'Hetzner',
-        link: 'https://hetzner.com/',
+        name: 'Dribbble',
+        link: 'https://dribbble.com',
       },
       {
-        name: 'Protonmail',
-        link: 'https://mail.protonmail.com/',
+        name: 'hangouts',
+        link: 'https://hangouts.google.com',
       },
     ],
   },
