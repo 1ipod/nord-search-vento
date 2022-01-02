@@ -36,7 +36,7 @@
   --bg: var(--nord0); /* Background color */
   --sbg: var(--nord1); /* Cards color */
   --fg: var(--nord10); /* Foreground color */
-  --sfg: var(--nord10); /* Secondary Foreground color */
+  --sfg: var(--nord1); /* Secondary Foreground color */
   --imgcol: linear-gradient(
     rgba(0, 0, 0, 0.603),
     rgba(0, 0, 0, 0.603)
