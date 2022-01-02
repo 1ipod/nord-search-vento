@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&display=swap');
-
+@import "nord.css";
 /* V A R I A B L E S */
 
 :root {
@@ -10,12 +10,11 @@
   --fses: 2vh; /* Links List */
 
   /* Light theme  */
-  --accent: #696969; /* Hover color */
-  --bg: #ffffff00; /* Background color */
-  --sbg: #ffffff2d; /* Cards color */
-
-  --fg: #272727; /* Foreground color */
-  --sfg: #272727; /* Sceondary Foreground color */
+   --accent: var(--nord7); /* Hover color */
+  --bg: var(--nord6); /* Background color */
+  --sbg: var(--nord4); /* Cards color */
+  --fg: var(--nord8); /* Foreground color */
+  --sfg: var(--nord8); /* Secondary Foreground color */
 
   /* Image background  */
 
@@ -33,11 +32,11 @@
 
 /* Dark theme  */
 .darktheme {
-  --accent: #777777; /* Hover color */
-  --bg: #19171a; /* Background color */
-  --sbg: #201e212d; /* Cards color */
-  --fg: #d8dee9; /* Foreground color */
-  --sfg: #d8d8d8; /* Secondary Foreground color */
+  --accent: var(--nord7); /* Hover color */
+  --bg: var(--nord0); /* Background color */
+  --sbg: var(--nord1); /* Cards color */
+  --fg: var(--nord8); /* Foreground color */
+  --sfg: var(--nord8); /* Secondary Foreground color */
   --imgcol: linear-gradient(
     rgba(0, 0, 0, 0.603),
     rgba(0, 0, 0, 0.603)
