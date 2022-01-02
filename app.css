@@ -13,7 +13,7 @@
    --accent: var(--nord0); /* Hover color */
   --bg: var(--nord6); /* Background color */
   --sbg: var(--nord4); /* Cards color */
-  --fg: var(--nord8); /* Foreground color */
+  --fg: var(--nord5); /* Foreground color */
   --sfg: var(--nord8); /* Secondary Foreground color */
 
   /* Image background  */
@@ -35,8 +35,8 @@
   --accent: var(--nord0); /* Hover color */
   --bg: var(--nord0); /* Background color */
   --sbg: var(--nord1); /* Cards color */
-  --fg: var(--nord8); /* Foreground color */
-  --sfg: var(--nord8); /* Secondary Foreground color */
+  --fg: var(--nord10); /* Foreground color */
+  --sfg: var(--nord10); /* Secondary Foreground color */
   --imgcol: linear-gradient(
     rgba(0, 0, 0, 0.603),
     rgba(0, 0, 0, 0.603)
