@@ -20,7 +20,7 @@ const CONFIG = {
   // General
   name: 'ciaran',
   imageBackground: true,
-  openInNewTab: true,
+  openInNewTab: false,
 
   // Greetings
   greetingMorning: 'Good morning,',
@@ -58,9 +58,9 @@ const CONFIG = {
     },
     {
       id: '3',
-      name: 'Todoist',
-      icon: 'twitch',
-      link: 'https://twitch.tv/',
+      name: 'school',
+      icon: 'glasses',
+      link: 'connexus.com',
     },
     {
       id: '4',
