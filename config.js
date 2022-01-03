@@ -60,7 +60,7 @@ const CONFIG = {
       id: '3',
       name: 'school',
       icon: 'glasses',
-      link: 'https://connexus.com',
+      link: 'https://connexus.com/',
     },
     {
       id: '4',
