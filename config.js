@@ -59,14 +59,14 @@ const CONFIG = {
     {
       id: '3',
       name: 'school',
-      icon: 'clock',
+      icon: 'glasses',
       link: 'https://connexus.com',
     },
     {
       id: '4',
       name: 'Calendar',
       icon: 'calendar',
-      link: 'https://calendar.google.com/calendar/r',
+      link: 'https://calendar.google.com/calendar/',
     },
     {
       id: '5',
